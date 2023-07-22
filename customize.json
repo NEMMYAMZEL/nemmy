@@ -1,2 +1,23 @@
 {
+  "greeting": "Hiya",
+  "name": "Nemmy",
+  "greetingText": "Nemmy is such a unique and captivating name! I really like it!",
+  "wishText": "Happy birthday to you!! Yeee! 🎉 Wishing you many, many joyful moments!",
+  "imagePath": "nemmy.jpeg",
+  "text1": "It's your birthday!!! :D",
+  "textInChatBox": "Happy birthday to you!! Yeee! 🎉 blah blah.",
+  "sendButtonLabel": "Send",
+  "text2": "That's what I was going to do.",
+  "text3": "But then I stopped.",
+  "text4": "After some reflection, I came to the realization that I yearned to undertake something meaningful.",
+  "text4Adjective": "special",
+  "text5Entry": "Because,",
+  "text5Content": "You are Special",
+  "smiley": ":)",
+  "bigTextPart1": "S",
+  "bigTextPart2": "O",
+  "wishHeading": "Love, laughter, and infinite happiness!",
+  "outroText": "Okay, now come back and tell me if you liked it.",
+  "replayText": "Or click, if you want to watch it again.",
+  "outroSmiley": ":)"
 }
